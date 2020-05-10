@@ -1,0 +1,1 @@
+This app helps manage a library collection of books.
