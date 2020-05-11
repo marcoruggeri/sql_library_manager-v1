@@ -1,0 +1,27 @@
+{
+  "name": "sql_library_manager-v1",
+  "version": "1.0.0",
+  "description": "This app helps manage a library collection of books.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4high20/sql_library_manager-v1.git"
+  },
+  "author": "Marco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4high20/sql_library_manager-v1/issues"
+  },
+  "homepage": "https://github.com/4high20/sql_library_manager-v1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "sequelize": "^5.21.7",
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^4.2.0"
+  }
+}
